@@ -1,18 +1,74 @@
-# 💫 About Me:
-Backend-focused .NET Developer with hands-on experience building scalable RESTful APIs using C#, ASP.NET Core, <br>and Entity Framework Core, backed by relational database design in SQL Server. Applies SOLID principles, Design <br>Patterns, and Clean Architecture to write maintainable code. Also builds front-end interfaces with Angular and <br>TypeScript. Collaborative problem-solver committed to delivering reliable software from concept to deployment.
+# 👋 Hi, I'm Abdelrahman Mohamed
 
+### Backend-Focused .NET Developer | Angular
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdelrahman Mohamed ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdelrahman_mohamed74_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdelrahman Mohamed ) 
+I build scalable RESTful APIs with **C#, ASP.NET Core, and Entity Framework Core**, backed by relational database design in **SQL Server**. I apply SOLID principles, Design Patterns, and Clean Architecture to write maintainable code, and I also build front-end interfaces with **Angular and TypeScript**. Collaborative problem-solver committed to delivering reliable software from concept to deployment.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Abdelrahman-Mohamed-7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Abdelrahman-Mohamed-7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abdelrahman-Mohamed-7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📍 Mansoura, Egypt · 🎓 B.Sc. Computer and Information Science, Mansoura University · 💼 Open to backend .NET roles
 
 ---
-[![](https://komarev.com/ghpvc/?username=Abdelrahman-Mohamed-7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+
+**Backend**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### ✈️ Flight Booking System
+A flight ticket booking platform built with .NET: one ASP.NET Core Web API consumed by two MVC applications, an employee dashboard and a customer booking site.
+`C#` `ASP.NET Core` `Web API` `MVC` `EF Core` `SQL Server`
+🔗 [View repository](https://github.com/Abdelrahman-Mohamed-7/REPO-NAME)
+
+### 🛒 MasterMarket
+An e-commerce style application built with ASP.NET Core and Entity Framework Core, managing products and categories.
+`C#` `ASP.NET Core` `EF Core` `SQL Server`
+🔗 [View repository](https://github.com/Abdelrahman-Mohamed-7/REPO-NAME)
+
+### 🌐 Personal Portfolio
+My personal portfolio website, built with Angular and TypeScript.
+`Angular` `TypeScript` `CSS`
+🔗 [View repository](https://github.com/Abdelrahman-Mohamed-7/REPO-NAME) · [Live demo](https://YOUR-PORTFOLIO-LINK)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=Abdelrahman-Mohamed-7&theme=dark&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abdelrahman-Mohamed-7&theme=dark&hide_border=true&layout=compact" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Abdelrahman-Mohamed-7&theme=dark&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-SLUG)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR-FACEBOOK-SLUG)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdelrahman_mohamed74_)
